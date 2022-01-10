@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Thanakorn
-- 👀 I'm Interested in Front-end development 💻📱
+- 👋 Hi, I’m Thanakorn khiankaew
+- 👀 I'm interested in front-end development 💻📱
 - 📚 I’m currently learning Swift 
 - 🌱 I like to learn new things to keep up with technology and believe that learning should be fun. 😊
 - 📫 You can reach me at thanakorn.kk@odds.team
